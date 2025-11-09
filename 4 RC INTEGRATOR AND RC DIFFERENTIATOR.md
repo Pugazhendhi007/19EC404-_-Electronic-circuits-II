@@ -24,15 +24,16 @@
 <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/ac12584c-7c60-4baa-a8e2-a0d1bd24150e" />
 
 # Tabulation
+![IMAGE 4](https://github.com/user-attachments/assets/829c6c32-e479-452e-96ae-2596d0af58d9)
 
 
 # Graph
 ## Differentiator
-![WhatsApp Image 2025-11-09 at 20 01 28_9bddf799](https://github.com/user-attachments/assets/5e8d7d36-bc9c-40be-a7b5-b8d6b8529fc8) 
+![4A](https://github.com/user-attachments/assets/48ab6c75-d33b-4152-8836-838a087439aa)
+
 ## Integrator
-![WhatsApp Image 2025-11-09 at 20 01 27_dc058c83](https://github.com/user-attachments/assets/ca3e0d67-62be-4983-81cd-337279baa6b1)
 
-
+![4B](https://github.com/user-attachments/assets/2a62c24b-20d7-48a7-9b65-4713ce2bd480)
 
 # Sample images 
 ![WhatsApp Image 2025-11-09 at 20 04 30_525a4be1](https://github.com/user-attachments/assets/f7ff0164-d4ef-42a1-ba0d-a0cca8a80505)
